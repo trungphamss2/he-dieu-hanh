@@ -1,0 +1,22 @@
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.GenerateResource.cache
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.GeneratedMSBuildEditorConfig.editorconfig
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.AssemblyInfoInputs.cache
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.AssemblyInfo.cs
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.CoreCompileInputs.cache
+E:\btl hđh\he dieu hanh\bin\Debug\net8.0-windows\he dieu hanh.exe
+E:\btl hđh\he dieu hanh\bin\Debug\net8.0-windows\he dieu hanh.deps.json
+E:\btl hđh\he dieu hanh\bin\Debug\net8.0-windows\he dieu hanh.runtimeconfig.json
+E:\btl hđh\he dieu hanh\bin\Debug\net8.0-windows\he dieu hanh.dll
+E:\btl hđh\he dieu hanh\bin\Debug\net8.0-windows\he dieu hanh.pdb
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.dll
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\refint\he dieu hanh.dll
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.pdb
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.genruntimeconfig.cache
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\ref\he dieu hanh.dll
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu hanh.csproj.AssemblyReference.cache
+E:\btl hđh\he dieu hanh\bin\Debug\net8.0-windows\Gma.System.MouseKeyHook.dll
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he dieu .6505C773.Up2Date
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he_dieu_hanh.MainForm.resources
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageDashboard.resources
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageEventLog.resources
+E:\btl hđh\he dieu hanh\obj\Debug\net8.0-windows\he_dieu_hanh.Pages.PageSettings.resources
